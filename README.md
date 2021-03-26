@@ -2,7 +2,7 @@
 Good Minecraft Client For People
 
 # Download
-I am coding an installer soon.
+Run the installer
 
 # FAQ
 How to install? - Look at Download
