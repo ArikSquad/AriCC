@@ -1,13 +1,9 @@
-# AriCC
-Good Minecraft Client For People
-
-# Download
-Run the installer
-
 # FAQ
-How to install? - Look at Download
+How to start? - Open the installer and then launch the minecraft launcher.
 
-How to use? - Coming soon
+# Author
+This client has been made by Ari k!
 
-# Help
-Installation help and more coming soon!
+# Socials
+Website: www.mikart.eu
+YouTube: www.youtube.com/arikchannel
