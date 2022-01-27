@@ -26,7 +26,7 @@
 
 
 # Author
-This client has been made by Ari k!
+This client has been coded by me, but we have been using some open-source code.
 
 # Socials
 YouTube: www.youtube.com/arikchannel
