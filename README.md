@@ -6,7 +6,7 @@
 - Wait for the installer to finish and then open Minecraft Launcher to play AriCC!
 
 # AriCC Installation (Linux)
- - Download AriCC Installer.jar from here.
+ - Download AriCC Installer.jar from [here](https://github.com/ArikSquad/AriCC/releases)
 
 - Run AriCC Installer.jar from the terminal: java -jar "AriCC Installer.jar"
 
