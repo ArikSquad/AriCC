@@ -1,3 +1,6 @@
+
+# archive: Goodbye old AriCC. :wave:
+---
 # AriCC Installation (Windows/Mac/Linux)
 ### Windows/Mac ###
 - Download AriCC Installer.jar from [here.](https://github.com/ArikSquad/AriCC/releases)
